@@ -13,7 +13,7 @@ learning one skill at a time!
 ## 📁 Projects
 | Project | Tools | Link |
 |---|---|---|
-| Supermarket Sales Analysis | Python, Tableau | [View](your link here) |
+| Supermarket Sales Analysis | Python, Tableau | [[View](https://www.kaggle.com/code/remogodsora/supermarket-sales-analysis)] |
 
 ## 📚 Currently Learning
 - Advanced Python (NumPy, Seaborn)
@@ -21,7 +21,7 @@ learning one skill at a time!
 - Building my portfolio
 
 ## 🌍 Location
-Sambalpur, Odisha, India
+Rourkela, Odisha, India
 
 ## 📫 Connect with me
 - [Kaggle](https://www.kaggle.com/remogodsora): my kaggle profile link
